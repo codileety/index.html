@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Ian Ndung'u RECIPE-PAGES-ASSIGNMENT</title>
+    <title>Moses Muchiri's RECIPE-PAGES-ASSIGNMENT</title>
     <meta charset="utf-8"/>
 
     <link href="./resources/pie_icon.gif" type="image/gif" rel="shortcut icon"/>
