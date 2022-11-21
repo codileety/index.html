@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Moses Muchiri's RECIPE-PAGES-ASSIGNMENT</title>
+    <titleMuchiri'sRECIPE-PAGES-ASSIGNMENT</title>
     <meta charset="utf-8"/>
 
     <link href="./resources/pie_icon.gif" type="image/gif" rel="shortcut icon"/>
